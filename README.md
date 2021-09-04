@@ -12,6 +12,8 @@ While working through this tutorial, what I found most challenging was trying to
 - [X] B-1: Your <code>.gitignore</code> file is correctly specified in the repository.
 - [X] A-1: The project report is complete as per the instructions.
 
+This work would be given a D if the Save Point only applies for one of the criteria. Otherwise, it could earn an A.
+
 
 ## Third-Party Assets
 
